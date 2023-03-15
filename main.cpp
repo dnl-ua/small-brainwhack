@@ -7,7 +7,7 @@
 
 auto main(int argc, char** argv) -> int {
     if (argc == 1) { std::cerr << "no file\n"; exit(EXIT_FAILURE); }
-//  if (!(std::ranges::ends_with(argv[1], ".bf"))) { std::cerr << "not a .bf file\n"; exit(EXIT_FAILURE); } // c++23
+    if (!std::string {argv[1]}.ends_with(".bf")) { std::cerr << "not a .bf file\n"; exit(EXIT_FAILURE); }
     std::fstream in {argv[1]};
     if (!in.is_open()) { std::cerr << "file not found\n"; exit(EXIT_FAILURE); }
     std::vector <char> cmds {}, field (1000, 0);
