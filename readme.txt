@@ -1,5 +1,1 @@
-M̸̧̢̛̦̼̘͓̀͘Ò̷̢̗̯̩̠͙̣͇̊Ḑ̶̥̱͚̼͇̀̿̿͗̈́Ȩ̷̠̼͚͙̭̥̉̔̓͜Ŕ̷͖̟͉̦̭͎͔͙̗̠͋͆͘N̶̝̮͙̞͖̭̹̟̕͜ ̴̟͚̹͈̺̍̂͐̑̕C̵̢̛͎̉͒̈́̑̋͆͗̌+̴̧̛͚͓͈̣͛̍̉̏̈̓̌͜+̴̝̮̝͔̱̖̉͆͑̆̒̍̑̄̃̚ ̴͓͆͗̑͗͐̾͜Ö̴̤̗̪̬͙̻͉́͐̉V̶͚̀͛Ȩ̴̨̢̮͓̯̱͕̤̾R̸̙̱͉̫͜͝L̷͓̖̯̳͍̆̉̈́̈́͌O̴̳̞̪̝͎̒́͋̿͛Ả̴̠̒̈͊̐̄̿Ḍ̸͕͕͔̟̔͑̈̉͠ͅ
-
-
-
-modern c++ allows to write more declarative code, which makes it much more readable!
+modern c++ allows to write more declarative code, which makes it much more r̯̠̦̩̲̦͚̙ͨ̌̑e͕̬̔͛͌à̜̫͍̣͖͔̤̑̉ͧ̿̽͒̓̇d̼̪̫̙̔à̜̫͍̣͖̑̉ͧ̿ͬ̅b̖̰̮̠͔̞͊͗ͬ̔͒̐̏́l͙̬̞̥̲̦͚̙e͕̬̔͛͌!
